@@ -2,9 +2,9 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /**
- *  * main - Entry point
- *   *
- *    * Return: Always 0 (Success)
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -42,9 +42,10 @@ x = q + 1;
 p++;
 q = 48;
 y = p;
-x = q+ 1;
+x = q + 1;
 }
 putchar('\n');
 return (0);
 }
+
 
